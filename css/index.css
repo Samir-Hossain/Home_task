@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.nav{
+    opacity: 0.5;
+    
+}
+.nav a{
+    text-decoration: none;
+    color:floralwhite;
+   
+}
+.nav ul li {
+    
+     background-color: black;
+    display: inline-flex;
+    padding: 10px;
+   opacity: 0.5px;   
+    margin-left: 20px;
+    
+}
+
